@@ -7,5 +7,5 @@
 ---
 
 - 🌱 I’m currently learning: **Low-level programming.**
-- 🔭 I’m interested in: **Cybersecurity, Reverse engineering.**
+- 🔭 I’m interested in: **Cybersecurity, Reverse engineering, Minecraft modding.**
 - ⚡ Fun fact: **I like astronomy.**
