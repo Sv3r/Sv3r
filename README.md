@@ -8,3 +8,5 @@
 
 - 🔭 I’m interested in: **Cybersecurity, Reverse engineering, Game modding.**
 - ⚡ Fun fact: **I like astronomy.**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B316CIQK)
